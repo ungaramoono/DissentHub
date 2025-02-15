@@ -1,0 +1,28 @@
+
+---
+
+### **2. Project Roadmap (`ROADMAP.md`)**  
+
+Create a file named **`ROADMAP.md`** in the GitHub repo and include:
+
+```markdown
+# DissentHub Roadmap 🚀  
+
+### **Phase 1: MVP Development (3–6 months)**
+✅ Set up GitHub repository and documentation  
+🔲 Develop **encrypted event coordination** system (Matrix-based)  
+🔲 Implement **Augmented Reality (AR) protest tags**  
+🔲 Prototype **Live Protest Sync Tool** (GPS & time-triggered actions)  
+🔲 Build **Basic Legal & Safety Toolkit**  
+
+### **Phase 2: Expansion & Beta Testing (6–12 months)**
+🔲 Expand **Sonic Protest Tools** (collaborative soundscapes)  
+🔲 Implement **Mesh Networking** for offline protests  
+🔲 Launch **Decentralized Protest Archive**  
+
+### **Phase 3: Public Release (12+ months)**
+🔲 Fully open-source release with documentation  
+🔲 Global outreach & partnerships with activists  
+🔲 Continuous updates based on community needs  
+
+Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md) and join us!
