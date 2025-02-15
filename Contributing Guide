@@ -1,0 +1,10 @@
+# Contributing to DissentHub  
+🚀 **Welcome to DissentHub!**  
+We're building a decentralized, open-source platform for DIY political dissent through public performances and demonstrations. Your contributions—whether coding, design, activism strategies, or legal knowledge—are crucial.
+
+## 🛠 How to Contribute  
+1. **Check the Issues Tab** – See open tasks, report bugs, or suggest features.  
+2. **Fork the Repository** – Click the "Fork" button and clone it to your local machine.  
+3. **Create a Branch** – Work on your feature/fix in a separate branch.  
+   ```sh
+   git checkout -b feature-new-tool
